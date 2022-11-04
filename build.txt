@@ -1,0 +1,3 @@
+displayName = Double Boss
+author = The Changer
+version = 0.1
