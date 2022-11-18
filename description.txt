@@ -1,1 +1,1 @@
-Double Boss is a pretty cool mod, it does...this. Modify this file with a description of your mod.
+Double Boss is a mod that spawns in two bosses for every fight.
